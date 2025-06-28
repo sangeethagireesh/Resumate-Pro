@@ -1,0 +1,176 @@
+{
+  "software engineer": {
+    "keywords": ["python", "java", "c++", "git", "algorithms", "data structures", "docker", "rest api"]
+  },
+  "data scientist": {
+    "keywords": ["python", "r", "machine learning", "statistics", "data analysis", "sql", "deep learning", "pandas"]
+  },
+  "network engineer": {
+    "keywords": ["routing", "switching", "firewalls", "tcp/ip", "network security", "vpn", "cisco", "wireshark"]
+  },
+  "web developer": {
+    "keywords": ["html", "css", "javascript", "react", "node.js", "bootstrap", "api", "responsive design"]
+  },
+  "database administrator": {
+    "keywords": ["sql", "oracle", "mysql", "performance tuning", "backup", "replication", "stored procedures"]
+  },
+  "system administrator": {
+    "keywords": ["linux", "windows server", "powershell", "scripting", "virtualization", "backup", "monitoring"]
+  },
+  "mobile app developer": {
+    "keywords": ["android", "ios", "java", "kotlin", "swift", "flutter", "react native", "ui/ux"]
+  },
+  "machine learning engineer": {
+    "keywords": ["python", "tensorflow", "pytorch", "machine learning", "deep learning", "data preprocessing", "model deployment"]
+  },
+  "cybersecurity analyst": {
+    "keywords": ["firewalls", "penetration testing", "risk assessment", "network security", "compliance", "intrusion detection"]
+  },
+  "cloud engineer": {
+    "keywords": ["aws", "azure", "gcp", "docker", "kubernetes", "terraform", "infrastructure as code", "monitoring"]
+  },
+  "devops engineer": {
+    "keywords": ["jenkins", "docker", "kubernetes", "ansible", "terraform", "ci/cd", "monitoring", "aws"]
+  },
+  "business analyst": {
+    "keywords": ["requirements gathering", "stakeholder management", "uml", "process modeling", "sql", "data analysis"]
+  },
+  "product manager": {
+    "keywords": ["roadmap planning", "agile", "scrum", "stakeholder communication", "market research", "user stories"]
+  },
+  "qa engineer": {
+    "keywords": ["manual testing", "selenium", "test automation", "bug tracking", "test cases", "regression testing"]
+  },
+  "ui/ux designer": {
+    "keywords": ["figma", "adobe xd", "wireframing", "prototyping", "user research", "interaction design", "usability testing"]
+  },
+  "technical writer": {
+    "keywords": ["documentation", "api docs", "technical manuals", "editing", "content creation", "markdown"]
+  },
+  "graphic designer": {
+    "keywords": ["photoshop", "illustrator", "branding", "layout", "typography", "adobe indesign"]
+  },
+  "data engineer": {
+    "keywords": ["sql", "python", "etl", "spark", "hadoop", "data warehousing", "airflow"]
+  },
+  "seo specialist": {
+    "keywords": ["keyword research", "google analytics", "on-page seo", "link building", "content strategy", "semrush"]
+  },
+  "digital marketer": {
+    "keywords": ["google ads", "facebook ads", "seo", "content marketing", "email marketing", "analytics"]
+  },
+  "sales manager": {
+    "keywords": ["crm", "lead generation", "sales strategy", "customer relations", "negotiation", "forecasting"]
+  },
+  "human resources manager": {
+    "keywords": ["recruitment", "employee relations", "performance management", "hr policies", "onboarding"]
+  },
+  "financial analyst": {
+    "keywords": ["financial modeling", "excel", "accounting", "forecasting", "budgeting", "data analysis"]
+  },
+  "accountant": {
+    "keywords": ["taxation", "financial reporting", "bookkeeping", "audit", "quickbooks", "accounts payable"]
+  },
+  "project manager": {
+    "keywords": ["project planning", "risk management", "agile", "scrum", "budgeting", "stakeholder management"]
+  },
+  "architect": {
+    "keywords": ["autocad", "revit", "3d modeling", "building codes", "design", "project management"]
+  },
+  "civil engineer": {
+    "keywords": ["structural analysis", "autocad", "construction management", "surveying", "material science"]
+  },
+  "mechanical engineer": {
+    "keywords": ["solidworks", "cad", "thermodynamics", "material science", "manufacturing processes"]
+  },
+  "electrical engineer": {
+    "keywords": ["circuit design", "pcb design", "matlab", "control systems", "power systems"]
+  },
+  "chemical engineer": {
+    "keywords": ["process design", "hysys", "reaction engineering", "material balances", "safety protocols"]
+  },
+  "teacher": {
+    "keywords": ["lesson planning", "curriculum development", "classroom management", "student assessment"]
+  },
+  "research scientist": {
+    "keywords": ["data analysis", "experiment design", "scientific writing", "statistics", "lab techniques"]
+  },
+  "content writer": {
+    "keywords": ["seo", "blog writing", "copywriting", "editing", "content strategy", "research"]
+  },
+  "translator": {
+    "keywords": ["language proficiency", "translation software", "proofreading", "localization"]
+  },
+  "lawyer": {
+    "keywords": ["legal research", "client counseling", "litigation", "contract drafting", "negotiation"]
+  },
+  "doctor": {
+    "keywords": ["patient care", "diagnosis", "medical procedures", "record keeping", "pharmacology"]
+  },
+  "nurse": {
+    "keywords": ["patient care", "medication administration", "emergency response", "record keeping"]
+  },
+  "pharmacist": {
+    "keywords": ["pharmacology", "prescription review", "patient counseling", "inventory management"]
+  },
+  "graphic illustrator": {
+    "keywords": ["illustrator", "drawing", "branding", "vector art", "photoshop"]
+  },
+  "video editor": {
+    "keywords": ["adobe premiere", "final cut pro", "color grading", "storyboarding", "motion graphics"]
+  },
+  "photographer": {
+    "keywords": ["lighting", "composition", "photo editing", "photoshop", "camera operation"]
+  },
+  "translator": {
+    "keywords": ["multilingual", "translation", "localization", "proofreading"]
+  },
+  "social media manager": {
+    "keywords": ["content creation", "community management", "analytics", "social media strategy", "ads"]
+  },
+  "network administrator": {
+    "keywords": ["network setup", "firewalls", "vpn", "troubleshooting", "monitoring"]
+  },
+  "database developer": {
+    "keywords": ["sql", "database design", "stored procedures", "performance tuning", "normalization"]
+  },
+  "it support specialist": {
+    "keywords": ["troubleshooting", "customer service", "hardware", "software", "networking"]
+  },
+  "seo analyst": {
+    "keywords": ["seo tools", "keyword research", "analytics", "on-page seo", "link building"]
+  },
+  "ui developer": {
+    "keywords": ["html", "css", "javascript", "react", "responsive design", "cross-browser compatibility"]
+  },
+  "system analyst": {
+    "keywords": ["requirement analysis", "system design", "uml", "data modeling", "stakeholder communication"]
+  },
+  "technical support engineer": {
+    "keywords": ["troubleshooting", "customer service", "networking", "software", "hardware"]
+  },
+  "game developer": {
+    "keywords": ["unity", "c#", "3d modeling", "game design", "graphics programming"]
+  },
+  "embedded systems engineer": {
+    "keywords": ["c programming", "microcontrollers", "rtos", "hardware debugging", "firmware"]
+  },
+  "qa tester": {
+    "keywords": ["test cases", "manual testing", "automation", "selenium", "bug tracking"]
+  },
+  "business development manager": {
+    "keywords": ["lead generation", "negotiation", "client management", "market research", "sales strategy"]
+  },
+  "customer service representative": {
+    "keywords": ["communication", "problem solving", "crm", "customer satisfaction", "multitasking"]
+  },
+  "content strategist": {
+    "keywords": ["content planning", "seo", "analytics", "social media", "writing"]
+  },
+  "logistics coordinator": {
+    "keywords": ["inventory management", "shipment tracking", "vendor relations", "planning", "coordination"]
+  },
+  "event planner": {
+    "keywords": ["planning", "coordination", "vendor management", "budgeting", "communication"]
+  }
+}
